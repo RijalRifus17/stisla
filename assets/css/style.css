@@ -190,7 +190,7 @@ p, ul:not(.list-unstyled), ol {
 .custom-select:focus,
 .custom-file-label:focus {
   background-color: #fefeff;
-  border-color: #95a0f4;
+  border-color: #3bb557;
 }
 
 .input-group-text,
@@ -2933,7 +2933,7 @@ pre {
   border-radius: 5px;
   height: 8px;
   width: 30px;
-  background-color: #6777ef;
+  background-color: #47c363;
   display: inline-block;
   float: left;
   margin-top: 6px;
